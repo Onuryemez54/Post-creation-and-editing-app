@@ -4,6 +4,6 @@ Shows the posts received from the jsonplaceholder.typicode.com API on the home p
 
 All posts will be deleted with the clear all posts button.
 
-You can create a new psot on a different html page with create a new post
+You can create a new post on a different html page with create a new post
 
 You can make changes to the existing post and save it with the edit post button.
